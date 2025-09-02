@@ -143,12 +143,3 @@ curl -X DELETE http://localhost:8080/tasks/<task_id>
 
 This project is licensed under the **MIT License**.
 You are free to use, modify, and distribute this software as per the license terms.
-
-```
-
----
-
-I can also create a **LICENSE** file with the full MIT License text so your repo looks professional.  
-
-Do you want me to generate that too?
-```
