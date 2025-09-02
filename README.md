@@ -3,8 +3,6 @@
 A simple, lightweight, and production-ready **RESTful API** built using **Go** and **Gorilla Mux**.  
 It allows you to manage tasks with CRUD operations, in-memory storage, and optional Docker support.  
 
-This project is great for showcasing **Go development**, **API design**, and **containerization** skills.
-
 ---
 
 ## Features
